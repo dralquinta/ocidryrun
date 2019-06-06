@@ -1,11 +1,5 @@
-##GIT IGNORE FILE
-#  Local .intelliJ directories
-**/.idea/*
-
 #  Local .terraform directories
 **/.terraform/*
-
-
 
 # .tfstate files
 *.tfstate
